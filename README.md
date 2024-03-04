@@ -1,4 +1,4 @@
-# TypeScript Next.js example
+# kickstartDS Static CMS starter
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
@@ -39,3 +39,26 @@ When we run `next dev` the next time, Next.js will start looking for any `.ts` o
 Next.js has built-in TypeScript declarations, so we'll get autocompletion for Next.js' modules straight away.
 
 A `type-check` script is also added to `package.json`, which runs TypeScript's `tsc` CLI in `noEmit` mode to run type-checking separately. You can then include this, for example, in your `test` scripts.
+
+## Contributing
+
+Contributions are welcome. Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as below, without any additional terms or conditions.
+
+## License
+
+This project is licensed under either of
+
+- [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) ([LICENSE-APACHE](LICENSE-APACHE))
+- [MIT license](https://opensource.org/license/mit/) ([LICENSE-MIT](LICENSE-MIT))
+
+at your option.
+
+The SPDX license identifier for this project is MIT OR Apache-2.0.
+
+---
+
+For more information and updates, please visit the project's GitHub repository.
+
+## Support
+
+Join our [Discord community](https://discord.gg/mwKzD5gejY) for support, or leave an issue on this repository!
